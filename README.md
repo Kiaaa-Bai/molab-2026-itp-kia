@@ -1,4 +1,4 @@
-# molab-2026-itp-JHT
+# molab-2026-itp-KIA
 
 Midterm checklist
 - [] weekly description of homework progress/challenges in your wiki page
