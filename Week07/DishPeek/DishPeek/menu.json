@@ -1,0 +1,32 @@
+[
+    {
+        "id": "8DBF453A-1524-4082-A1C5-BB2B561E763D",
+        "name": "비빔밥",
+        "translation": "Bibimbap — mixed rice with vegetables",
+        "urlStr": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Dolsot-bibimbap.jpg/330px-Dolsot-bibimbap.jpg"
+    },
+    {
+        "id": "AABB1A62-F2AE-4F7F-8BC7-182689F73B89",
+        "name": "불고기",
+        "translation": "Bulgogi — marinated grilled beef",
+        "urlStr": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Bulgogi_2.jpg/330px-Bulgogi_2.jpg"
+    },
+    {
+        "id": "577C762D-7326-4C3E-8E0F-DEED498DD988",
+        "name": "떡볶이",
+        "translation": "Tteokbokki — spicy rice cakes",
+        "urlStr": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Tteokbokki.JPG/330px-Tteokbokki.JPG"
+    },
+    {
+        "id": "DF61F56B-B6F8-42AC-A354-3DF6E3153538",
+        "name": "김밥",
+        "translation": "Gimbap — seaweed rice rolls",
+        "urlStr": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gimbap_%28pixabay%29.jpg/330px-Gimbap_%28pixabay%29.jpg"
+    },
+    {
+        "id": "CECC88DA-E3B8-40BF-9E84-7FE0056EB745",
+        "name": "김치찌개",
+        "translation": "Kimchi-jjigae — kimchi stew",
+        "urlStr": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Korean_stew_dish_-_Kimchi-jjigae_Kimchi_Stew_2019_%2801%29.jpg/330px-Korean_stew_dish_-_Kimchi-jjigae_Kimchi_Stew_2019_%2801%29.jpg"
+    }
+]
